@@ -8,3 +8,8 @@ Then weekend starts
 Saturday
 And
 Sunday
+Then again weekday starts from monday
+Tuesday
+Wednesday
+Thursday
+Friday
